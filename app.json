@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/BANDA1M",
-    "repository": "https://github.com/mostafaaziza/alazizy",
-    "success_url": "https://t.me/hama_refaat",
+    "website": "https://t.me/MA4K2",
+    "repository": "https://github.com/D3NE/S2",
+    "success_url": "https://t.me/MA4K2",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "BANDA2M"
+            "value": "D3NAR"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "BANDA1M"
+            "value": "MA4K2"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "php_7"
+            "value": "IS0IX"
         },
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
             "required": true,
-            "value": "mostafa_alazizy..🎶"
+            "value": "ძᥱꪀᥲr .𐇲"
         }
     },
     "addons": [],
